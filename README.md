@@ -20,4 +20,4 @@ Against the Earth's sweet flowing breast
 
 --> Untuk menampilkan output kita menggunakan perintah System.out.println() atau System.out.print(). Kita juga bisa membuatnya dalam satu System.out.print() dengan cara menambahkan tanda tambah setelah tanda kutip. 
 
-contohnya : System.out.print("I think that I shall never see" + "\na poem aas lovely as a tree." + "A tree whose hungry mouth is pressed" + "Against the Earth's sweet flowing breast");
+contohnya : System.out.print("I think that I shall never see" + "\na poem aas lovely as a tree." + "\nA tree whose hungry mouth is pressed" + "\nAgainst the Earth's sweet flowing breast");
